@@ -1,4 +1,4 @@
 # JuliaSetUni
 Go check out the Coding Train's version !
 
-You can also read the [article on my site :)](https://maxime.codes/My-Languages/2020/06/uni-julia-set/)
+[![Video showcase](https://img.youtube.com/vi/4R8IlX_WO_Q/0.jpg)](https://www.youtube.com/watch?v=4R8IlX_WO_Q)
